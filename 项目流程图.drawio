@@ -1,9 +1,18 @@
-<mxfile host="www.draw.io" modified="2020-01-24T04:21:00.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="W4zBph7lj5FTHToHloSf" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-24T05:21:40.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="785x0wjipH6E22ZOhu64" version="12.5.6" type="github">
   <diagram id="uw3inCJQCSoo9WiT7ENM" name="第 1 页">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="r6jNqbJNBkN99II1Urgm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="r6jNqbJNBkN99II1Urgm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="170" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="95" y="140"/>
+              <mxPoint x="590" y="140"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ApKYWPiX7AiaHv-lb321-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="180" width="30" height="70" as="geometry"/>
         </mxCell>
@@ -50,7 +59,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="105" y="280" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="600" y="410"/>
+              <mxPoint x="590" y="410"/>
               <mxPoint x="105" y="410"/>
             </Array>
           </mxGeometry>
